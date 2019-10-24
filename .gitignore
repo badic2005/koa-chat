@@ -1,0 +1,10 @@
+node_modules/
+build
+dist
+static/
+*.idea
+*.log
+*.rdb
+dll
+.env
+node_modules/
